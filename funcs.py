@@ -1,4 +1,5 @@
 def get_sum(a, b):
+    """Возвращает сумму чисел"""
     c = a + b
     return c
 
